@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# screenshot 
+![alt text](https://raw.githubusercontent.com/zeeshux7860/flutter_mail_sender/master/Email%20Sender.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
