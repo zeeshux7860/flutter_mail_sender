@@ -1,4 +1,4 @@
-# test_app
+# FLutter_mail_sender
 
 A new Flutter project.
 
