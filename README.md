@@ -1,4 +1,4 @@
-# FLutter_mail_sender
+# Flutter_mail_sender
 
 A new Flutter project.
 
