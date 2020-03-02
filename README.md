@@ -3,7 +3,7 @@
 A new Flutter project.
 
 # screenshot 
-![alt text](https://raw.githubusercontent.com/zeeshux7860/flutter_mail_sender/master/Email%20Sender.png)
+![alt text](https://github.com/zeeshux7860/flutter_mail_sender/blob/master/Email%20Sender(1).png)
 
 Subscribe On [Youtube](https://www.youtube.com/channel/UCdlYbpF0lxyujCUfUoxqCRQ)
 
