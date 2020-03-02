@@ -91,7 +91,7 @@ class _HomePageState extends State<HomePage> {
         ),
       ),
       bottomNavigationBar: Padding(
-        padding: const EdgeInsets.all(12.0),
+                padding: const EdgeInsets.only(left:20.0,right: 20.0,top:12.0,bottom:12.0),
         child: new FlatButton(
           padding: EdgeInsets.all(13.0),
           color: Colors.black,
