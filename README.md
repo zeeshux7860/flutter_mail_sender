@@ -1,6 +1,6 @@
 # Flutter_mail_sender
 
-A new Flutter project.
+Facing Problems? contact me at   [LinkedIn](https://www.linkedin.com/in/zeeshu-x-5190b41a1/) i am always happy to help;
 
 # screenshot 
 ![alt text](https://github.com/zeeshux7860/flutter_mail_sender/blob/master/Email%20Sender(1).png)
